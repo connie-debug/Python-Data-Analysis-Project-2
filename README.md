@@ -1,14 +1,6 @@
 # Python-Data-Analysis-Project-2
 Pyhon数据分析练习，包括数据读取，评估，清洗，分析，可视化等。
-那么应该用您原来的仓库链接：
 
-```bash
-git clone https://github.com/connie-debug/Python-Data-Analysis.git
-```
-
-## 完整的READM.md文件：
-
-```markdown
 # Iris Species Data Analysis  
 # 鸢尾花种类数据分析  
 
